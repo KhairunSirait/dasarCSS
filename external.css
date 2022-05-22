@@ -1,0 +1,16 @@
+		h1 {
+			font-style: italic;
+			color: red;
+			border-style: solid; border-color: black;
+		}
+
+		p {
+			color: purple;
+			font-style: oblique;
+			font-size: 150%
+		}
+
+		li {
+			color: orange;
+			border: inset;
+		}
